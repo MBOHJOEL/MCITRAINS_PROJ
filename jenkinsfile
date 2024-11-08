@@ -1,0 +1,17 @@
+pipeline {
+    agent {
+
+    }
+    Stages {
+        stage ('checkout') {
+            the code 
+
+        }
+        stage ('Building Stage'){
+            this is where the code goes
+        }
+        stage ('testing') {
+             
+        }
+    }
+}
